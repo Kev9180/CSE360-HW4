@@ -1,0 +1,8 @@
+Patient ID: 19272
+The total Agatston CAC score: 580
+Vessel level Agatston CAC Score
+LM: 120
+LAD: 100
+LCX: 80
+RCA: 130
+PDA: 150

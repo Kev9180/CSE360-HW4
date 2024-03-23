@@ -1,0 +1,8 @@
+Patient ID: 67724
+The total Agatston CAC score: 150
+Vessel level Agatston CAC Score
+LM: 10
+LAD: 20
+LCX: 30
+RCA: 40
+PDA: 50
